@@ -64,7 +64,7 @@ public class Tester {
 			
 			do {
 				String input2 = scanner.nextLine();
-					if (input2.equals ("y") || input2.equals ("yes")) {
+					if (input2.equals ("yes") || input2.equals ("no")) {
 					System.out.println("You open the box, and see a portal. You wake up and realise it was all a dream");
 					action = true;
 					}
